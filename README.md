@@ -21,7 +21,7 @@ The rest is the same as Bitcoin.
 For more information, as well as an immediately useable, binary version of
 the Learncoin client sofware, see http://www.learncoin.org.
 
-License
+License   this is a upload test for github.com
 -------
 
 Learncoin is released under the terms of the MIT license. See `COPYING` for more
